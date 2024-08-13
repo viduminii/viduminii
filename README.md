@@ -3,7 +3,7 @@
       <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hey+there+I'm+Vidumini+%F0%9F%91%8B;Computer+Science+Undergraduate;At+University+of+Plymouth;Problem+Solver;Designer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%2322FF22&size=32&center=true&vCenter=true&width=600&height=50&lines=Hey+there+I'm+Vidumini+%F0%9F%91%8B;Computer+Science+Undergraduate;At+University+of+Plymouth;Problem+Solver;Designer;Open-Source+Enthusiast" alt="Headline" />
     </div>
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=viduminii&label=Profile%20views&color=red&style=flat" alt="viduminii" /> </p>
