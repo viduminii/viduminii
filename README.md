@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-      <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 50/>
+      <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hey+there+I'm+Vidumini+%F0%9F%91%8B;Computer+Science+Undergraduate;At+University+of+Plymouth;Problem+Solver;Designer;Open-Source+Enthusiast" alt="Headline" />
@@ -10,7 +10,7 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"> </picture>
 
 <br>
 
